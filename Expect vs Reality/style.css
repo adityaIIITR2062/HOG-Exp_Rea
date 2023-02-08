@@ -1,0 +1,99 @@
+body{
+    margin-left: 0%;
+    margin-right: 0%;
+}
+.ExpvsReal{
+    color: yellow;
+    text-align: center;
+    font-size: 2em;
+}
+
+
+
+
+
+
+
+.about{
+    background-image: radial-gradient(circle at 67% 83%, hsla(317,0%,96%,0.05) 0%, hsla(317,0%,96%,0.05) 1%,transparent 1%, transparent 5%,transparent 5%, transparent 100%),radial-gradient(circle at 24% 80%, hsla(317,0%,96%,0.05) 0%, hsla(317,0%,96%,0.05) 27%,transparent 27%, transparent 63%,transparent 63%, transparent 100%),radial-gradient(circle at 23% 5%, hsla(317,0%,96%,0.05) 0%, hsla(317,0%,96%,0.05) 26%,transparent 26%, transparent 82%,transparent 82%, transparent 100%),radial-gradient(circle at 21% 11%, hsla(317,0%,96%,0.05) 0%, hsla(317,0%,96%,0.05) 35%,transparent 35%, transparent 45%,transparent 45%, transparent 100%),radial-gradient(circle at 10% 11%, hsla(317,0%,96%,0.05) 0%, hsla(317,0%,96%,0.05) 21%,transparent 21%, transparent 81%,transparent 81%, transparent 100%),radial-gradient(circle at 19% 61%, hsla(317,0%,96%,0.05) 0%, hsla(317,0%,96%,0.05) 20%,transparent 20%, transparent 61%,transparent 61%, transparent 100%),radial-gradient(circle at 13% 77%, hsla(317,0%,96%,0.05) 0%, hsla(317,0%,96%,0.05) 63%,transparent 63%, transparent 72%,transparent 72%, transparent 100%),radial-gradient(circle at 30% 93%, hsla(317,0%,96%,0.05) 0%, hsla(317,0%,96%,0.05) 33%,transparent 33%, transparent 82%,transparent 82%, transparent 100%),linear-gradient(90deg, rgb(22, 176, 207),rgb(157,219,107));
+}
+.comparision{
+    background-image: repeating-linear-gradient(135deg, rgb(0,0,0) 0px, rgb(0,0,0) 10px,transparent 10px, transparent 11px),repeating-linear-gradient(22.5deg, rgb(0,0,0) 0px, rgb(0,0,0) 10px,transparent 10px, transparent 11px),linear-gradient(90deg, hsl(194,74%,56%),hsl(266,74%,56%),hsl(338,74%,56%),hsl(50,74%,56%),hsl(122,74%,56%)); 
+}
+.header {
+    color: White;
+    background: blue;
+    height: 35px;
+    font-family: "Times New Roman", Impact, Haettenschweiler, sans-serif;
+    font-size: 25px;
+    width: 100%;
+}
+a:link {
+        color: White;
+        text-decoration: none;
+    }
+a:visited {
+        color: white;
+        text-decoration: none;
+    }
+a:hover {
+        color: red;
+        text-decoration: none;
+    }
+a:active {
+        color: yellow;
+        text-decoration: none;
+    }
+#Comparision{
+        text-align: left;
+        margin-left: 10%;
+    
+    }
+#About{
+    text-align: right;
+    margin-left: 40%;
+    }
+.footer {
+        color: White;
+        background: rgb(0, 0, 0);
+        height: 35px;
+        font-family: "Times New Roman", Impact, Haettenschweiler, sans-serif;
+        font-size: 25px;
+        width: 100%;
+    position: fixed;
+    bottom:0%;
+}
+b{
+    color: #dfff00;  
+}
+.intro,.hobbies,.conclusion{
+    text-align: center;
+    color: rgb(52, 48, 186);
+    font-size: 25px;
+    font-family: 'Neuton', serif;
+
+}
+.interests_pic,.hobbies_pic{
+    border:5px solid #def152;
+    width: 25%;
+    
+}
+tr{
+    font-family: 'Charm', 'Courgette' ,'Neuton', 'Niconne','Rancho','Sriracha', 'Tangerine', 'cursive';
+}
+
+.connect{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+}
+.linkedin{
+    width: 5%;
+}
+.git{
+    width: 5%;
+}
+
+
+
+/* background: linear-gradient(170deg, rgba(49, 57, 73, 0.8) 20%, rgba(49, 57, 73, 0.5) 20%, rgba(49, 57, 73, 0.5) 35%, rgba(41, 48, 61, 0.6) 35%, rgba(47, 75, 126, 0.8) 45%, rgba(31, 36, 46, 0.5) 45%, rgba(31, 36, 46, 0.8) 75%, rgba(24, 48, 96, 0.5) 75%), linear-gradient(45deg, rgba(20, 24, 31, 0.8) 0%, rgba(41, 48, 61, 0.8) 50%, rgba(82, 95, 122, 0.8) 50%, rgba(0, 36, 114, 0.8) 100%) #313949; */
